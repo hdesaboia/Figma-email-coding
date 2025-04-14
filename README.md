@@ -1,6 +1,88 @@
 # Figma to Email Training Data Generator
 
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project generates training data for AI models by analyzing Figma designs and matching them with HTML email templates.
+
+## Prerequisites
+
+- Node.js >= 14.0.0
+- npm >= 6.0.0
+- Figma API access token
+- Iterable API access token
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hdesaboia/Figma-email-coding.git
+   cd Figma-email-coding
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Set up environment variables:
+   ```bash
+   cp .env.example .env
+   ```
+   Then edit `.env` and add your:
+   - FIGMA_ACCESS_TOKEN
+   - ITERABLE_API_KEY
+
+4. Run tests to verify setup:
+   ```bash
+   npm test
+   ```
+
+## Usage
+
+### Basic Usage
+1. Update the Figma file ID in `src/index.js`
+2. Run the analysis:
+   ```bash
+   npm start
+   ```
+
+### Example Output
+```bash
+$ npm start
+📊 Analyzing Figma components...
+✅ Found 100 components (84 text, 16 buttons)
+📧 Matching with HTML templates...
+✅ Match rate: 100%
+💾 Saving training data...
+✅ Training data saved to training_data/
+```
+
+### Configuration
+You can configure the analysis by modifying:
+- `src/config.js`: General settings
+- `src/ai/iterableAnalyzer.js`: HTML parsing rules
+- `src/ai/designComponentMapper.js`: Component matching rules
+
+## Contributing
+
+We welcome contributions! Here's how to help:
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Run tests: `npm test`
+5. Submit a pull request
+
+### Code Style
+- Use 2 spaces for indentation
+- Follow JavaScript Standard Style
+- Write tests for new features
+- Document complex logic
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Version Control Guidelines
 
@@ -94,11 +176,6 @@ src/
    ```bash
    npm test
    ```
-
-## Usage
-
-1. Update the Figma file ID in `src/index.js`
-2. Run `npm start`
 
 ## Making Changes
 
