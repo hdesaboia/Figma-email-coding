@@ -99,3 +99,33 @@ src/
 
 1. Update the Figma file ID in `src/index.js`
 2. Run `npm start`
+
+## Making Changes
+
+### Basic Workflow
+1. Make your changes to the code
+2. Stage the changes:
+   ```bash
+   git add .  # Stage all changes
+   # or
+   git add filename  # Stage specific file
+   ```
+
+3. Commit the changes:
+   ```bash
+   git commit -m "type(scope): description of changes"
+   ```
+
+4. Push to GitHub:
+   ```bash
+   git push
+   ```
+
+### Example
+Let's say you modified the component extraction logic:
+```bash
+# After making changes
+git add src/ai/iterableAnalyzer.js
+git commit -m "feat(component): improve HTML component extraction"
+git push
+```
