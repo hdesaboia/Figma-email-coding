@@ -1,0 +1,1744 @@
+{
+  "template_id": "15852461",
+  "structure": {
+    "sections": [
+      {
+        "name": "gif_image_",
+        "type": "section",
+        "start": 2680
+      },
+      {
+        "name": "desktop_yellow_module_with_cta_and_header_",
+        "type": "section",
+        "start": 10017
+      },
+      {
+        "name": "eyebrow_copy_",
+        "type": "section",
+        "start": 15650
+      },
+      {
+        "name": "gif_image_",
+        "type": "section",
+        "start": 17552
+      },
+      {
+        "name": "desktop_green_module_with_cta_and_header_",
+        "type": "section",
+        "start": 19814
+      },
+      {
+        "name": "desktop_questions_",
+        "type": "section",
+        "start": 22719
+      },
+      {
+        "name": "devider_line_",
+        "type": "section",
+        "start": 27804
+      }
+    ],
+    "layout": {
+      "type": "email",
+      "structure": [
+        {
+          "name": "Gif_image_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "image",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "display": "block",
+                  "max-width": "520px",
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "16px",
+                  "line-height": "20px",
+                  "color": "#000000"
+                },
+                "important": {}
+              },
+              "data": {
+                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/c20b79dbb46e4a0d9e9bb08bbdca8e36/Header_Image_Desktop_2.gif",
+                "alt": "Moving green dots show the focus areas for joint and muscle care at Hinge Health.",
+                "type": "desktop"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "image",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "display": "block",
+                  "max-width": "512px",
+                  "font-family": "Arial,‘Helvetica Neue’,Helvetica,sans-serif",
+                  "font-size": "16px",
+                  "line-height": "20px",
+                  "color": "#000000"
+                },
+                "important": {}
+              },
+              "data": {
+                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/38660876d168423bb9d8404e8644fef8/2024H2_Baseline_Header_Gif_EM1_Mobile.gif",
+                "alt": "Moving green dots show the focus areas for joint and muscle care at Hinge Health. This program is available at zero cost to you.",
+                "type": "mobile"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_full_img"
+              ],
+              "styles": {
+                "regular": {
+                  "text-decoration": "none"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white",
+                "em_f18"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "18px",
+                  "line-height": "25px",
+                  "color": "#373938"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "Hi {{#if useFirstNamePersonalization}}{{#if firstName}} {{capitalizeFirst (lower firstName)}}{{else}}there{{/if}}{{else}}there{{/if}},",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white",
+                "em_f18"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "18px",
+                  "line-height": "25px",
+                  "color": "#373938"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "You’re eligible to join Hinge Health, a digital {{#if (and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)}}joint and muscle care{{else}}exercise therapy{{/if}} benefit provided by {{clientMarketingName}} at no additional cost to you.",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_h39",
+                "em_font16"
+              ],
+              "styles": {
+                "regular": {
+                  "font-size": "18px",
+                  "color": "#ffffff",
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "height": "54px",
+                  "font-weight": "bold"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "TRY MY PROGRAM",
+                "type": "subheadline"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "dynamic",
+              "data": {
+                "variables": {
+                  "landingPageSlug": {
+                    "usage": "url",
+                    "context": {
+                      "before": "sans-serif; height: 54px; font-weight: bold; \"><a title=\"CTA\" href=\"https://www.hingehealth.com/for/",
+                      "after": "{{landingPageSlug}}\" rel=\"noreferrer\" style=\"text-decoration: none; color: #ffffff; line-height: 54"
+                    }
+                  },
+                  "{ snippet \"Padding_24px_Section\"": {
+                    "usage": "url",
+                    "context": {
+                      "before": "",
+                      "after": "{{{ snippet \"Padding_24px_Section\" }}} <td align=\"cente"
+                    }
+                  },
+                  "capitalizeFirst (lower firstName)": {
+                    "usage": "url",
+                    "context": {
+                      "before": ": 18px; line-height: 25px; color: #373938;\">Hi {{#if useFirstNamePersonalization}}{{#if firstName}}",
+                      "after": "{{capitalizeFirst (lower firstName)}}{{else}}there{{/if}}{{else}}there{{/if}},"
+                    }
+                  },
+                  "clientMarketingName": {
+                    "usage": "url",
+                    "context": {
+                      "before": "now format=\"yyyy\")) enso)}}joint and muscle care{{else}}exercise therapy{{/if}} benefit provided by",
+                      "after": "{{clientMarketingName}} at no additional cost to you."
+                    }
+                  },
+                  "{ snippet \"Padding_32px_Section\"": {
+                    "usage": "url",
+                    "context": {
+                      "before": "dy>",
+                      "after": "{{{ snippet \"Padding_32px_Section\" }}}"
+                    }
+                  }
+                },
+                "conditionals": {
+                  "useFirstNamePersonalization": {
+                    "ifContent": "{{#if firstName}} {{capitalizeFirst (lower firstName)}}",
+                    "elseContent": "there",
+                    "purpose": "personalization"
+                  },
+                  "(and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)": {
+                    "ifContent": "joint and muscle care",
+                    "elseContent": "exercise therapy",
+                    "purpose": "other"
+                  }
+                },
+                "snippets": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              0
+            ],
+            "horizontal": [
+              0
+            ]
+          }
+        },
+        {
+          "name": "Desktop_Yellow_module_with_CTA_and_header_Section",
+          "type": "header",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "28px",
+                  "line-height": "33px",
+                  "color": "#007B34",
+                  "font-weight": "700"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "Is Hinge Health right for me?",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_h39"
+              ],
+              "styles": {
+                "regular": {
+                  "font-size": "18px",
+                  "color": "#ffffff",
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "height": "54px",
+                  "font-weight": "bold"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "TRY MY PROGRAM",
+                "type": "subheadline"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "dynamic",
+              "data": {
+                "variables": {
+                  "landingPageSlug": {
+                    "usage": "url",
+                    "context": {
+                      "before": "sans-serif; height: 54px; font-weight: bold; \"><a title=\"CTA\" href=\"https://www.hingehealth.com/for/",
+                      "after": "{{landingPageSlug}}\" rel=\"noreferrer\" style=\"text-decoration: none; color: #ffffff; line-height: 54"
+                    }
+                  }
+                },
+                "conditionals": {
+                  "(and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)": {
+                    "ifContent": ".",
+                    "elseContent": ", in as little as 10 minutes.",
+                    "purpose": "other"
+                  },
+                  "approvedWPHPromo": {
+                    "ifContent": "We also offer pelvic floor therapy from the comfort and privacy of home. Get care for issues related to leaks, pelvic pain, postpartum recovery, and more.",
+                    "elseContent": "",
+                    "purpose": "other"
+                  }
+                },
+                "snippets": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              0,
+              16,
+              40
+            ],
+            "horizontal": [
+              0,
+              16,
+              40
+            ]
+          }
+        },
+        {
+          "name": "Padding_1_40px_Green_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "text",
+              "classes": [
+                "em_h40"
+              ],
+              "styles": {
+                "regular": {
+                  "height": "40px",
+                  "font-size": "1px",
+                  "line-height": "1px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "&nbsp;",
+                "type": "subheadline"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [],
+            "horizontal": []
+          }
+        },
+        {
+          "name": "Eyebrow_copy_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "16px",
+                  "line-height": "19px",
+                  "color": "#373938",
+                  "font-weight": "700",
+                  "letter-spacing": "0.2em",
+                  "text-transform": "uppercase"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "A HINGE HEALTH EXCLUSIVE",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              0
+            ],
+            "horizontal": [
+              0
+            ]
+          }
+        },
+        {
+          "name": "Padding_2_24px_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "text",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "height": "24px",
+                  "font-size": "1px",
+                  "line-height": "1px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "&nbsp;",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [],
+            "horizontal": []
+          }
+        },
+        {
+          "name": "Gif_image_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "image",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "display": "block",
+                  "max-width": "520px",
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "16px",
+                  "line-height": "20px",
+                  "color": "#000000"
+                },
+                "important": {}
+              },
+              "data": {
+                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/38660876d168423bb9d8404e8644fef8/enso-baseline-legacy_email-1_enso-module_desktop.png",
+                "alt": "A male is wearing Enso to soothe neck pain at home.",
+                "type": "desktop"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_full_img"
+              ],
+              "styles": {
+                "regular": {
+                  "text-decoration": "none"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "dynamic",
+              "data": {
+                "variables": {
+                  "landingPageSlug": {
+                    "usage": "url",
+                    "context": {
+                      "before": "center\" class=\"em_full_img\"><a title=\"A male is wearing Enso\" href=\"https://www.hingehealth.com/for/",
+                      "after": "{{landingPageSlug}}\" rel=\"noreferrer\" target=\"_blank\" style=\"text-decoration: none;\"><img src=\"https"
+                    }
+                  }
+                },
+                "conditionals": {},
+                "snippets": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              0
+            ],
+            "horizontal": [
+              0
+            ]
+          }
+        },
+        {
+          "name": "Desktop_Green_module_with_CTA_and_header_Section",
+          "type": "header",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "28px",
+                  "line-height": "33px",
+                  "color": "#003617",
+                  "font-weight": "700"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "Get pain relief in minutes with Enso *",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white",
+                "em_f18"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "18px",
+                  "line-height": "25px",
+                  "color": "#373938",
+                  "font-weight": "400"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "Enso uses calming, gentle pulses to soothe pain flare-ups at home or on-the-go. Try our program to see if it's right for you.",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_h39"
+              ],
+              "styles": {
+                "regular": {
+                  "font-size": "18px",
+                  "color": "#ffffff",
+                  "font-family": "'Roboto', Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "height": "54px",
+                  "font-weight": "bold"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "TRY MY PROGRAM",
+                "type": "subheadline"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "dynamic",
+              "data": {
+                "variables": {
+                  "landingPageSlug": {
+                    "usage": "url",
+                    "context": {
+                      "before": "sans-serif; height: 54px; font-weight: bold; \"><a title=\"CTA\" href=\"https://www.hingehealth.com/for/",
+                      "after": "{{landingPageSlug}}\" rel=\"noreferrer\" style=\"text-decoration: none; color: #ffffff; line-height: 54"
+                    }
+                  }
+                },
+                "conditionals": {},
+                "snippets": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              0,
+              16,
+              24,
+              40
+            ],
+            "horizontal": [
+              0,
+              16,
+              24,
+              40
+            ]
+          }
+        },
+        {
+          "name": "Desktop_questions_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "image",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "display": "block",
+                  "max-width": "70px"
+                },
+                "important": {}
+              },
+              "data": {
+                "src": "https://d2axdqolvqmdvx.cloudfront.net/f05de41f-faeb-4c9b-a5a5-59dd6868b1aa/image_03.png",
+                "alt": " An icon representing a member connecting with the support team.",
+                "type": "desktop"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_side30"
+              ],
+              "styles": {
+                "regular": {
+                  "width": "40px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "&nbsp;",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_h32"
+              ],
+              "styles": {
+                "regular": {
+                  "height": "39px",
+                  "font-size": "0px",
+                  "line-height": "0px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "&nbsp;",
+                "type": "subheadline"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_clear"
+              ],
+              "styles": {
+                "regular": {
+                  "width": "70px",
+                  "font-size": "0px",
+                  "line-height": "0px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_clear",
+                "em_h20"
+              ],
+              "styles": {
+                "regular": {
+                  "width": "20px",
+                  "font-size": "0px",
+                  "line-height": "0px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "&nbsp;",
+                "type": "headline"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_green",
+                "em_center"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "20px",
+                  "line-height": "25px",
+                  "color": "#007B34",
+                  "font-weight": "bold"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "Questions?&nbsp;We&rsquo;re&nbsp;here&nbsp;to&nbsp;help!",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [
+                "em_defaultlink",
+                "em_dm_txt_white",
+                "em_center"
+              ],
+              "styles": {
+                "regular": {
+                  "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+                  "font-size": "18px",
+                  "line-height": "25px",
+                  "color": "#373938",
+                  "font-weight": "400"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "To talk to a member of our support team, call us at 1&#8209;855&#8209;902&#8209;2777 or email help@hingehealth.com .",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "dynamic",
+              "data": {
+                "variables": {
+                  "landingPageSlug": {
+                    "usage": "url",
+                    "context": {
+                      "before": "icon representing a member connecting with the support team.\" href=\"https://www.hingehealth.com/for/",
+                      "after": "{{landingPageSlug}}\" rel=\"noreferrer\" target=\"_blank\" style=\"text-decoration: none;\"><img alt=\" An i"
+                    }
+                  }
+                },
+                "conditionals": {},
+                "snippets": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              8
+            ],
+            "horizontal": [
+              8
+            ]
+          }
+        },
+        {
+          "name": "Devider_line_Section",
+          "type": "module",
+          "responsive": {
+            "isResponsive": false,
+            "hasDesktopVersion": false,
+            "hasMobileVersion": false,
+            "breakpoints": {}
+          },
+          "components": [
+            {
+              "type": "image",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "display": "block"
+                },
+                "important": {}
+              },
+              "data": {
+                "src": "https://d2axdqolvqmdvx.cloudfront.net/a39073af-ce18-44cb-a076-bf4c5f09a92f/spacer.gif",
+                "alt": "divider line",
+                "type": "desktop"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "text",
+              "classes": [],
+              "styles": {
+                "regular": {
+                  "height": "1px",
+                  "font-size": "0px",
+                  "line-height": "0px"
+                },
+                "important": {}
+              },
+              "data": {
+                "content": "",
+                "type": "text"
+              },
+              "responsive": {
+                "isResponsive": false,
+                "hasDesktopVersion": false,
+                "hasMobileVersion": false,
+                "breakpoints": {}
+              }
+            },
+            {
+              "type": "dynamic",
+              "data": {
+                "variables": {
+                  "{ snippet \"Padding_24px_Section\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": "",
+                      "after": "{{{ snippet \"Padding_24px_Section\" }}} {{{ snippet \"2024_privacy_disclaimer\" }}} {{#if (and (lt"
+                    }
+                  },
+                  "{ snippet \"2024_privacy_disclaimer\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": "/table> {{{ snippet \"Padding_24px_Section\" }}}",
+                      "after": "{{{ snippet \"2024_privacy_disclaimer\" }}} {{#if (and (lt (dateFormat hhProgramLaunchDate \"yyyy\") ("
+                    }
+                  },
+                  "{ snippet \"2024_universal_Enso_disclaimer\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": "laimer\" }}} {{#if (and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)}}",
+                      "after": "{{{ snippet \"2024_universal_Enso_disclaimer\" }}}{{{ snippet \"Padding_16px_Section\" }}}{{else}}{{{ sn"
+                    }
+                  },
+                  "{ snippet \"Padding_16px_Section\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": ")}} {{{ snippet \"2024_universal_Enso_disclaimer\" }}}{{{ snippet \"Padding_16px_Section\" }}}{{else}}",
+                      "after": "{{{ snippet \"Padding_16px_Section\" }}}{{/if}} {{{ snippet \"2024_universal_eligibility_disclaimer_d"
+                    }
+                  },
+                  "{ snippet \"2024_universal_eligibility_disclaimer_dynamic\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": "r\" }}}{{{ snippet \"Padding_16px_Section\" }}}{{else}}{{{ snippet \"Padding_16px_Section\" }}}{{/if}}",
+                      "after": "{{{ snippet \"2024_universal_eligibility_disclaimer_dynamic\" }}} {{{ snippet \"2024_Spanish_Footer_B"
+                    }
+                  },
+                  "{ snippet \"2024_Spanish_Footer_Banner\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": "adding_16px_Section\" }}}{{/if}} {{{ snippet \"2024_universal_eligibility_disclaimer_dynamic\" }}}",
+                      "after": "{{{ snippet \"2024_Spanish_Footer_Banner\" }}} {{{ snippet \"2024_White_footer\" }}}"
+                    }
+                  },
+                  "{ snippet \"2024_White_footer\"": {
+                    "usage": "content",
+                    "context": {
+                      "before": "2024_universal_eligibility_disclaimer_dynamic\" }}} {{{ snippet \"2024_Spanish_Footer_Banner\" }}}",
+                      "after": "{{{ snippet \"2024_White_footer\" }}}"
+                    }
+                  }
+                },
+                "conditionals": {
+                  "(and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)": {
+                    "ifContent": "{{{ snippet \"2024_universal_Enso_disclaimer\" }}}{{{ snippet \"Padding_16px_Section\" }}}",
+                    "elseContent": "",
+                    "purpose": "other"
+                  }
+                },
+                "snippets": {}
+              }
+            }
+          ],
+          "spacing": {
+            "vertical": [
+              0
+            ],
+            "horizontal": [
+              0
+            ]
+          }
+        }
+      ],
+      "spacing": {
+        "vertical": [
+          0,
+          8,
+          16,
+          24,
+          40
+        ],
+        "horizontal": [
+          0,
+          8,
+          16,
+          24,
+          40
+        ]
+      },
+      "mediaQueries": []
+    },
+    "components": [
+      {
+        "type": "image",
+        "classes": [],
+        "styles": {
+          "regular": {
+            "display": "block",
+            "max-width": "520px",
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "16px",
+            "line-height": "20px",
+            "color": "#000000"
+          },
+          "important": {}
+        },
+        "data": {
+          "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/c20b79dbb46e4a0d9e9bb08bbdca8e36/Header_Image_Desktop_2.gif",
+          "alt": "Moving green dots show the focus areas for joint and muscle care at Hinge Health.",
+          "type": "desktop"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "image",
+        "classes": [],
+        "styles": {
+          "regular": {
+            "display": "block",
+            "max-width": "512px",
+            "font-family": "Arial,‘Helvetica Neue’,Helvetica,sans-serif",
+            "font-size": "16px",
+            "line-height": "20px",
+            "color": "#000000"
+          },
+          "important": {}
+        },
+        "data": {
+          "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/38660876d168423bb9d8404e8644fef8/2024H2_Baseline_Header_Gif_EM1_Mobile.gif",
+          "alt": "Moving green dots show the focus areas for joint and muscle care at Hinge Health. This program is available at zero cost to you.",
+          "type": "mobile"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "image",
+        "classes": [],
+        "styles": {
+          "regular": {
+            "display": "block",
+            "max-width": "520px",
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "16px",
+            "line-height": "20px",
+            "color": "#000000"
+          },
+          "important": {}
+        },
+        "data": {
+          "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/38660876d168423bb9d8404e8644fef8/enso-baseline-legacy_email-1_enso-module_desktop.png",
+          "alt": "A male is wearing Enso to soothe neck pain at home.",
+          "type": "desktop"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "image",
+        "classes": [],
+        "styles": {
+          "regular": {
+            "display": "block",
+            "max-width": "70px"
+          },
+          "important": {}
+        },
+        "data": {
+          "src": "https://d2axdqolvqmdvx.cloudfront.net/f05de41f-faeb-4c9b-a5a5-59dd6868b1aa/image_03.png",
+          "alt": " An icon representing a member connecting with the support team.",
+          "type": "desktop"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "image",
+        "classes": [],
+        "styles": {
+          "regular": {
+            "display": "block"
+          },
+          "important": {}
+        },
+        "data": {
+          "src": "https://d2axdqolvqmdvx.cloudfront.net/a39073af-ce18-44cb-a076-bf4c5f09a92f/spacer.gif",
+          "alt": "divider line",
+          "type": "desktop"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_font1",
+          "em_dm_txt_white"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "40px",
+            "line-height": "48px",
+            "color": "#007B34",
+            "font-weight": "700"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "It’s time to sign up for Hinge Health",
+          "type": "headline"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_full_img"
+        ],
+        "styles": {
+          "regular": {
+            "text-decoration": "none"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white",
+          "em_f18"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "18px",
+            "line-height": "25px",
+            "color": "#373938"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "Hi {{#if useFirstNamePersonalization}}{{#if firstName}} {{capitalizeFirst (lower firstName)}}{{else}}there{{/if}}{{else}}there{{/if}},",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white",
+          "em_f18"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "18px",
+            "line-height": "25px",
+            "color": "#373938"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "You’re eligible to join Hinge Health, a digital {{#if (and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)}}joint and muscle care{{else}}exercise therapy{{/if}} benefit provided by {{clientMarketingName}} at no additional cost to you.",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_h39",
+          "em_font16"
+        ],
+        "styles": {
+          "regular": {
+            "font-size": "18px",
+            "color": "#ffffff",
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "height": "54px",
+            "font-weight": "bold"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "TRY MY PROGRAM",
+          "type": "subheadline"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "28px",
+            "line-height": "33px",
+            "color": "#007B34",
+            "font-weight": "700"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "Is Hinge Health right for me?",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_h40"
+        ],
+        "styles": {
+          "regular": {
+            "height": "40px",
+            "font-size": "1px",
+            "line-height": "1px"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "&nbsp;",
+          "type": "subheadline"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "16px",
+            "line-height": "19px",
+            "color": "#373938",
+            "font-weight": "700",
+            "letter-spacing": "0.2em",
+            "text-transform": "uppercase"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "A HINGE HEALTH EXCLUSIVE",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [],
+        "styles": {
+          "regular": {
+            "height": "24px",
+            "font-size": "1px",
+            "line-height": "1px"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "&nbsp;",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "28px",
+            "line-height": "33px",
+            "color": "#003617",
+            "font-weight": "700"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "Get pain relief in minutes with Enso *",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white",
+          "em_f18"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "18px",
+            "line-height": "25px",
+            "color": "#373938",
+            "font-weight": "400"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "Enso uses calming, gentle pulses to soothe pain flare-ups at home or on-the-go. Try our program to see if it's right for you.",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_clear",
+          "em_h20"
+        ],
+        "styles": {
+          "regular": {
+            "width": "20px",
+            "font-size": "0px",
+            "line-height": "0px"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "&nbsp;",
+          "type": "headline"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_green",
+          "em_center"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "20px",
+            "line-height": "25px",
+            "color": "#007B34",
+            "font-weight": "bold"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "Questions?&nbsp;We&rsquo;re&nbsp;here&nbsp;to&nbsp;help!",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "text",
+        "classes": [
+          "em_defaultlink",
+          "em_dm_txt_white",
+          "em_center"
+        ],
+        "styles": {
+          "regular": {
+            "font-family": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+            "font-size": "18px",
+            "line-height": "25px",
+            "color": "#373938",
+            "font-weight": "400"
+          },
+          "important": {}
+        },
+        "data": {
+          "content": "To talk to a member of our support team, call us at 1&#8209;855&#8209;902&#8209;2777 or email help@hingehealth.com .",
+          "type": "text"
+        },
+        "responsive": {
+          "isResponsive": false,
+          "hasDesktopVersion": false,
+          "hasMobileVersion": false,
+          "breakpoints": {}
+        }
+      },
+      {
+        "type": "dynamic",
+        "data": {
+          "variables": {
+            "{ snippet \"CSS_Master_Template\"": {
+              "usage": "url",
+              "context": {
+                "before": "00;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap\" rel=\"stylesheet\">",
+                "after": "{{{ snippet \"CSS_Master_Template\" }}} <body class=\"em_body\" style=\"margin:0px auto; padding:"
+              }
+            },
+            "{ snippet \"preheader_space_fix\"": {
+              "usage": "url",
+              "context": {
+                "before": "n\" width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" class=\"em_full_wrap\" bgcolor=\"#ffffff\">",
+                "after": "{{{ snippet \"preheader_space_fix\" }}} {{{ snippet \"2024_Universal_Logo_Dynamic_YM and MG_WPH\" }}} {{"
+              }
+            },
+            "{ snippet \"2024_Universal_Logo_Dynamic_YM and MG_WPH\"": {
+              "usage": "url",
+              "context": {
+                "before": "=\"0\" cellpadding=\"0\" class=\"em_full_wrap\" bgcolor=\"#ffffff\"> {{{ snippet \"preheader_space_fix\" }}}",
+                "after": "{{{ snippet \"2024_Universal_Logo_Dynamic_YM and MG_WPH\" }}} {{{ snippet \"Padding_16px_Section\" }}}"
+              }
+            },
+            "{ snippet \"Padding_16px_Section\"": {
+              "usage": "url",
+              "context": {
+                "before": ")}} {{{ snippet \"2024_universal_Enso_disclaimer\" }}}{{{ snippet \"Padding_16px_Section\" }}}{{else}}",
+                "after": "{{{ snippet \"Padding_16px_Section\" }}}{{/if}} {{{ snippet \"2024_universal_eligibility_disclaimer_d"
+              }
+            },
+            "{ snippet \"Padding_24px_Section\"": {
+              "usage": "url",
+              "context": {
+                "before": "",
+                "after": "{{{ snippet \"Padding_24px_Section\" }}} {{{ snippet \"2024_privacy_disclaimer\" }}} {{#if (and (lt"
+              }
+            },
+            "landingPageSlug": {
+              "usage": "url",
+              "context": {
+                "before": "icon representing a member connecting with the support team.\" href=\"https://www.hingehealth.com/for/",
+                "after": "{{landingPageSlug}}\" rel=\"noreferrer\" target=\"_blank\" style=\"text-decoration: none;\"><img alt=\" An i"
+              }
+            },
+            "capitalizeFirst (lower firstName)": {
+              "usage": "url",
+              "context": {
+                "before": ": 18px; line-height: 25px; color: #373938;\">Hi {{#if useFirstNamePersonalization}}{{#if firstName}}",
+                "after": "{{capitalizeFirst (lower firstName)}}{{else}}there{{/if}}{{else}}there{{/if}},"
+              }
+            },
+            "clientMarketingName": {
+              "usage": "url",
+              "context": {
+                "before": "now format=\"yyyy\")) enso)}}joint and muscle care{{else}}exercise therapy{{/if}} benefit provided by",
+                "after": "{{clientMarketingName}} at no additional cost to you."
+              }
+            },
+            "{ snippet \"Padding_32px_Section\"": {
+              "usage": "url",
+              "context": {
+                "before": "dy>",
+                "after": "{{{ snippet \"Padding_32px_Section\" }}}"
+              }
+            },
+            "{ snippet \"2024_privacy_disclaimer\"": {
+              "usage": "url",
+              "context": {
+                "before": "/table> {{{ snippet \"Padding_24px_Section\" }}}",
+                "after": "{{{ snippet \"2024_privacy_disclaimer\" }}} {{#if (and (lt (dateFormat hhProgramLaunchDate \"yyyy\") ("
+              }
+            },
+            "{ snippet \"2024_universal_Enso_disclaimer\"": {
+              "usage": "url",
+              "context": {
+                "before": "laimer\" }}} {{#if (and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)}}",
+                "after": "{{{ snippet \"2024_universal_Enso_disclaimer\" }}}{{{ snippet \"Padding_16px_Section\" }}}{{else}}{{{ sn"
+              }
+            },
+            "{ snippet \"2024_universal_eligibility_disclaimer_dynamic\"": {
+              "usage": "url",
+              "context": {
+                "before": "r\" }}}{{{ snippet \"Padding_16px_Section\" }}}{{else}}{{{ snippet \"Padding_16px_Section\" }}}{{/if}}",
+                "after": "{{{ snippet \"2024_universal_eligibility_disclaimer_dynamic\" }}} {{{ snippet \"2024_Spanish_Footer_B"
+              }
+            },
+            "{ snippet \"2024_Spanish_Footer_Banner\"": {
+              "usage": "url",
+              "context": {
+                "before": "adding_16px_Section\" }}}{{/if}} {{{ snippet \"2024_universal_eligibility_disclaimer_dynamic\" }}}",
+                "after": "{{{ snippet \"2024_Spanish_Footer_Banner\" }}} {{{ snippet \"2024_White_footer\" }}}"
+              }
+            },
+            "{ snippet \"2024_White_footer\"": {
+              "usage": "url",
+              "context": {
+                "before": "2024_universal_eligibility_disclaimer_dynamic\" }}} {{{ snippet \"2024_Spanish_Footer_Banner\" }}}",
+                "after": "{{{ snippet \"2024_White_footer\" }}}"
+              }
+            }
+          },
+          "conditionals": {
+            "useFirstNamePersonalization": {
+              "ifContent": "{{#if firstName}} {{capitalizeFirst (lower firstName)}}",
+              "elseContent": "there",
+              "purpose": "personalization"
+            },
+            "(and (lt (dateFormat hhProgramLaunchDate \"yyyy\") (now format=\"yyyy\")) enso)": {
+              "ifContent": "{{{ snippet \"2024_universal_Enso_disclaimer\" }}}{{{ snippet \"Padding_16px_Section\" }}}",
+              "elseContent": "",
+              "purpose": "other"
+            },
+            "approvedWPHPromo": {
+              "ifContent": "We also offer pelvic floor therapy from the comfort and privacy of home. Get care for issues related to leaks, pelvic pain, postpartum recovery, and more.",
+              "elseContent": "",
+              "purpose": "other"
+            }
+          },
+          "snippets": {}
+        }
+      }
+    ]
+  },
+  "snippets": [
+    {
+      "name": "landingPageSlug",
+      "type": "variable",
+      "usage": "variable"
+    },
+    {
+      "name": "clientMarketingName",
+      "type": "variable",
+      "usage": "variable"
+    }
+  ],
+  "conditionals": [
+    {
+      "condition": "useFirstNamePersonalization",
+      "type": "if",
+      "content": {
+        "type": "unknown",
+        "responsive_rules": []
+      }
+    },
+    {
+      "condition": "firstName",
+      "type": "if",
+      "content": {
+        "type": "unknown",
+        "responsive_rules": []
+      }
+    },
+    {
+      "condition": "approvedWPHPromo",
+      "type": "if",
+      "content": {
+        "type": "unknown",
+        "responsive_rules": []
+      }
+    }
+  ],
+  "responsive": {
+    "breakpoints": {
+      "mobile": "320px",
+      "desktop": "600px"
+    },
+    "rules": [
+      {
+        "selector": ".header",
+        "desktop": "flex-row",
+        "mobile": "flex-column"
+      },
+      {
+        "selector": ".content",
+        "desktop": "two-column",
+        "mobile": "single-column"
+      }
+    ],
+    "media_queries": []
+  }
+}

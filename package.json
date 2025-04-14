@@ -1,0 +1,24 @@
+{
+  "name": "figma-email-converter",
+  "version": "1.0.0",
+  "description": "Convert Figma designs to HTML emails",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test/emailTest.js"
+  },
+  "keywords": [
+    "figma",
+    "email",
+    "converter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "csv-parse": "^5.6.0",
+    "dotenv": "^16.5.0",
+    "fs-extra": "^11.3.0",
+    "path": "^0.12.7"
+  }
+}

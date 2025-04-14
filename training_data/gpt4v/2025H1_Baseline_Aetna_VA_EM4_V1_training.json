@@ -1,0 +1,4018 @@
+{
+  "email_id": "EM4",
+  "visual_input": {
+    "desktop": {
+      "nor": {
+        "path": "training_data/screenshots/2025H1_Baseline_Aetna_VA_EM4_V1_NOR_desktop_nor.png",
+        "metadata": {
+          "email": "2025H1_Baseline_Aetna_VA_EM4_V1_NOR",
+          "variant": "nor",
+          "viewport": "desktop",
+          "figmaId": "5dizNnH3l97v7YJN2dgaFl",
+          "nodeId": "12951-5658",
+          "frameId": "12951:5698",
+          "iterableId": "16034938",
+          "exportSettings": {
+            "width": 600,
+            "scale": 2
+          },
+          "timestamp": "2025-04-13T04:53:53.313Z"
+        }
+      },
+      "standard": {
+        "path": "training_data/screenshots/2025H1_Baseline_Aetna_VA_EM4_V1_desktop_standard.png",
+        "metadata": {
+          "email": "2025H1_Baseline_Aetna_VA_EM4_V1",
+          "variant": "standard",
+          "viewport": "desktop",
+          "figmaId": "5dizNnH3l97v7YJN2dgaFl",
+          "nodeId": "12951-5658",
+          "frameId": "12951:5698",
+          "iterableId": "15856991",
+          "exportSettings": {
+            "width": 600,
+            "scale": 2
+          },
+          "timestamp": "2025-04-13T04:53:44.692Z"
+        }
+      }
+    },
+    "mobile": {
+      "nor": {
+        "path": "training_data/screenshots/2025H1_Baseline_Aetna_VA_EM4_V1_NOR_mobile_nor.png",
+        "metadata": {
+          "email": "2025H1_Baseline_Aetna_VA_EM4_V1_NOR",
+          "variant": "nor",
+          "viewport": "mobile",
+          "figmaId": "5dizNnH3l97v7YJN2dgaFl",
+          "nodeId": "12951-5658",
+          "frameId": "12951:5659",
+          "iterableId": "16034938",
+          "exportSettings": {
+            "width": 320,
+            "scale": 2
+          },
+          "timestamp": "2025-04-13T04:53:53.641Z"
+        }
+      },
+      "standard": {
+        "path": "training_data/screenshots/2025H1_Baseline_Aetna_VA_EM4_V1_mobile_standard.png",
+        "metadata": {
+          "email": "2025H1_Baseline_Aetna_VA_EM4_V1",
+          "variant": "standard",
+          "viewport": "mobile",
+          "figmaId": "5dizNnH3l97v7YJN2dgaFl",
+          "nodeId": "12951-5658",
+          "frameId": "12951:5659",
+          "iterableId": "15856991",
+          "exportSettings": {
+            "width": 320,
+            "scale": 2
+          },
+          "timestamp": "2025-04-13T04:53:48.370Z"
+        }
+      }
+    }
+  },
+  "design_analysis": {
+    "component_mapping": {
+      "desktop": [
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Your logo here",
+            "name": "Your logo here",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textCase": "UPPER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.5,
+              "lineHeightPx": 28,
+              "lineHeightPercent": 199.11111450195312,
+              "lineHeightPercentFontSize": 233.3333282470703,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "You can sign up for the Women’s Pelvic Health Program",
+            "name": "Headline",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 36,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 43.20000076293945,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hi [FIRSTNAME],\nYou can join the Women’s Pelvic Health Program offered by Hinge Health, a benefit provided by [MEDICAL PLAN/EMPLOYER] at no additional cost to you.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary mobile cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "The Women’s Pelvic Health Program is more than exercise therapy. We combine gentle exercise with 1-on-1 support from an expert clinical care team, including your own pelvic floor physical therapist. So you get the right care when you need it most:",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pregnancy and postpartum — prepare for and recover from childbirth. Prevent back, hip, and pelvic pain. Rebuild your abs.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Bladder control — reduce urgent trips to the bathroom along with that “always gotta go” feeling that can result in leaking urine.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle relaxation and control — retrain your pelvic floor to reduce tension, relieve pain (including during sex), and increase flexibility.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle strengthening — build your core muscles. Prevent leaks when you laugh, sneeze, or cough. ",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Reduce your pain or discomfort, and keep your pelvic muscles working like they should. Take advantage of your benefit today.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary mobile cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Questions? We’re here to help!",
+            "name": "It’s guided exercise",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "To talk to a member of our support team, call us at 1-855-902-2777 or email help@hingehealth.com.",
+            "name": "You don’t have to ma",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -0.5,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hinge Health is committed to protecting the privacy and personal information of our customers. For more information, view our Privacy Policy.\n[ELIGIBILITY DISCLAIMER]\nAetna has partnered with Hinge Health to provide services that are included in the Aetna Back and Joint Care Program. This program does not replace formal physical therapy in office prior to surgery. Aetna is the brand name used for products and services provided by one or more of the Aetna group of companies, including Aetna Life Insurance Company and its affiliates (Aetna).",
+            "name": "Disclaimer eligibility",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 16,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "© Hinge Health Inc. All rights reserved.\n455 Market Street, Suite 700 | San Francisco, CA 94105",
+            "name": "Address",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "No longer want to receive these emails? Unsubscribe",
+            "name": "Unsubscribe",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -0.5,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Your logo here",
+            "name": "Your logo here",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textCase": "UPPER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.5,
+              "lineHeightPx": 28,
+              "lineHeightPercent": 199.11111450195312,
+              "lineHeightPercentFontSize": 233.3333282470703,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "You can sign up for the Women’s Pelvic Health Program",
+            "name": "Headline",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 40,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 48,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hi [FIRST NAME],\nYou can join the Women’s Pelvic Health Program offered by Hinge Health, a benefit provided by [MEDICAL PLAN/EMPLOYER] at no additional cost to you.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "🖥️ Desktop/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "The Women’s Pelvic Health Program is more than exercise therapy. We combine gentle exercise with 1-on-1 support from an expert clinical care team, including your own pelvic floor physical therapist. So you get the right care when you need it most:",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pregnancy and postpartum — prepare for and recover from childbirth. Prevent back, hip, and pelvic pain. Rebuild your abs.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Bladder control — reduce urgent trips to the bathroom along with that “always gotta go” feeling that can result in leaking urine.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle relaxation and control — retrain your pelvic floor to reduce tension, relieve pain (including during sex), and increase flexibility.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle strengthening — build your core muscles. Prevent leaks when you laugh, sneeze, or cough. ",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Reduce your pain or discomfort, and keep your pelvic muscles working like they should. Take advantage of your benefit today.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "🖥️ Desktop/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Questions? We’re here to help!",
+            "name": "It’s guided exercise",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 20,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 24,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "To talk to a member of our support team, call us at 1-855-902-2777 or email help@hingehealth.com.",
+            "name": "You don’t have to ma",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hinge Health is committed to protecting the privacy and personal information of our customers. For more information, view our Privacy Policy.\n[ELIGIBILITY DISCLAIMER]\nAetna has partnered with Hinge Health to provide services that are included in the Aetna Back and Joint Care Program. This program does not replace formal physical therapy in office prior to surgery. Aetna is the brand name used for products and services provided by one or more of the Aetna group of companies, including Aetna Life Insurance Company and its affiliates (Aetna).",
+            "name": "Disclaimer eligibility",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 16,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "© Hinge Health Inc. All rights reserved.\n455 Market Street, Suite 700 | San Francisco, CA 94105",
+            "name": "Address",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "No longer want to receive these emails? Unsubscribe",
+            "name": "Unsubscribe",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "All clients w/ WPH (No Enso)",
+            "name": "All clients w/ WPH (No Enso)",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 60,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 70.3125,
+              "lineHeightPercent": 100,
+              "lineHeightUnit": "INTRINSIC_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Email 4 Subject Line [FIRSTNAME], give pelvic floor exercise therapy a try \nPre-header text:  Access your free personalized program from the comfort of home.\n\nNon-opener resend subject line:\n[FIRSTNAME], you now have access to pelvic health benefits! \nNOR PH: Check out Hinge Health's new program today.",
+            "name": "Email 4 Subject Line [FIRSTNAME], give pelvic floor exercise therapy a try  Pre-header text:  Access your free personalized program from the comfort of home. Non-opener resend subject line: [FIRSTNAME], you now have access to pelvic health benefits!  NOR PH: Check out Hinge Health's new program today.",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 30,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 39,
+              "lineHeightPercent": 110.93333435058594,
+              "lineHeightPercentFontSize": 130,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "📱 Mobile/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "📱 Mobile/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        }
+      ],
+      "mobile": [
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Your logo here",
+            "name": "Your logo here",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textCase": "UPPER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.5,
+              "lineHeightPx": 28,
+              "lineHeightPercent": 199.11111450195312,
+              "lineHeightPercentFontSize": 233.3333282470703,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "You can sign up for the Women’s Pelvic Health Program",
+            "name": "Headline",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 36,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 43.20000076293945,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hi [FIRSTNAME],\nYou can join the Women’s Pelvic Health Program offered by Hinge Health, a benefit provided by [MEDICAL PLAN/EMPLOYER] at no additional cost to you.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary mobile cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "The Women’s Pelvic Health Program is more than exercise therapy. We combine gentle exercise with 1-on-1 support from an expert clinical care team, including your own pelvic floor physical therapist. So you get the right care when you need it most:",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pregnancy and postpartum — prepare for and recover from childbirth. Prevent back, hip, and pelvic pain. Rebuild your abs.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Bladder control — reduce urgent trips to the bathroom along with that “always gotta go” feeling that can result in leaking urine.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle relaxation and control — retrain your pelvic floor to reduce tension, relieve pain (including during sex), and increase flexibility.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle strengthening — build your core muscles. Prevent leaks when you laugh, sneeze, or cough. ",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Reduce your pain or discomfort, and keep your pelvic muscles working like they should. Take advantage of your benefit today.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary mobile cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Questions? We’re here to help!",
+            "name": "It’s guided exercise",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "To talk to a member of our support team, call us at 1-855-902-2777 or email help@hingehealth.com.",
+            "name": "You don’t have to ma",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -0.5,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hinge Health is committed to protecting the privacy and personal information of our customers. For more information, view our Privacy Policy.\n[ELIGIBILITY DISCLAIMER]\nAetna has partnered with Hinge Health to provide services that are included in the Aetna Back and Joint Care Program. This program does not replace formal physical therapy in office prior to surgery. Aetna is the brand name used for products and services provided by one or more of the Aetna group of companies, including Aetna Life Insurance Company and its affiliates (Aetna).",
+            "name": "Disclaimer eligibility",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 16,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "© Hinge Health Inc. All rights reserved.\n455 Market Street, Suite 700 | San Francisco, CA 94105",
+            "name": "Address",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "No longer want to receive these emails? Unsubscribe",
+            "name": "Unsubscribe",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -0.5,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Your logo here",
+            "name": "Your logo here",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textCase": "UPPER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.5,
+              "lineHeightPx": 28,
+              "lineHeightPercent": 199.11111450195312,
+              "lineHeightPercentFontSize": 233.3333282470703,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "You can sign up for the Women’s Pelvic Health Program",
+            "name": "Headline",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 40,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 48,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hi [FIRST NAME],\nYou can join the Women’s Pelvic Health Program offered by Hinge Health, a benefit provided by [MEDICAL PLAN/EMPLOYER] at no additional cost to you.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "🖥️ Desktop/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "The Women’s Pelvic Health Program is more than exercise therapy. We combine gentle exercise with 1-on-1 support from an expert clinical care team, including your own pelvic floor physical therapist. So you get the right care when you need it most:",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pregnancy and postpartum — prepare for and recover from childbirth. Prevent back, hip, and pelvic pain. Rebuild your abs.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Bladder control — reduce urgent trips to the bathroom along with that “always gotta go” feeling that can result in leaking urine.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle relaxation and control — retrain your pelvic floor to reduce tension, relieve pain (including during sex), and increase flexibility.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "•",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 18,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "RIGHT",
+              "textAlignVertical": "TOP",
+              "opentypeFlags": {
+                "LIGA": 0
+              },
+              "letterSpacing": 0,
+              "lineHeightPx": 21,
+              "lineHeightPercent": 99.55555725097656,
+              "lineHeightPercentFontSize": 116.66666412353516,
+              "lineHeightUnit": "PIXELS"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Pelvic muscle strengthening — build your core muscles. Prevent leaks when you laugh, sneeze, or cough. ",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "listSpacing": 18,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Reduce your pain or discomfort, and keep your pelvic muscles working like they should. Take advantage of your benefit today.",
+            "name": "FNAME, be one of the",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 14,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "🖥️ Desktop/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "Buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 0,
+                "g": 0.48235294222831726,
+                "b": 0.20392157137393951,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "JOIN HINGE HEALTH",
+            "name": "Primary cta",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "CENTER",
+              "letterSpacing": 0,
+              "lineHeightPx": 21.600000381469727,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Questions? We’re here to help!",
+            "name": "It’s guided exercise",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 20,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 24,
+              "lineHeightPercent": 102.40000915527344,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "To talk to a member of our support team, call us at 1-855-902-2777 or email help@hingehealth.com.",
+            "name": "You don’t have to ma",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 18,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 25.19999885559082,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Hinge Health is committed to protecting the privacy and personal information of our customers. For more information, view our Privacy Policy.\n[ELIGIBILITY DISCLAIMER]\nAetna has partnered with Hinge Health to provide services that are included in the Aetna Back and Joint Care Program. This program does not replace formal physical therapy in office prior to surgery. Aetna is the brand name used for products and services provided by one or more of the Aetna group of companies, including Aetna Life Insurance Company and its affiliates (Aetna).",
+            "name": "Disclaimer eligibility",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "paragraphSpacing": 16,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "© Hinge Health Inc. All rights reserved.\n455 Market Street, Suite 700 | San Francisco, CA 94105",
+            "name": "Address",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "No longer want to receive these emails? Unsubscribe",
+            "name": "Unsubscribe",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "Roboto-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 19.600000381469727,
+              "lineHeightPercent": 119.46666717529297,
+              "lineHeightPercentFontSize": 140,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "All clients w/ WPH (No Enso)",
+            "name": "All clients w/ WPH (No Enso)",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 60,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 70.3125,
+              "lineHeightPercent": 100,
+              "lineHeightUnit": "INTRINSIC_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "text",
+          "isCritical": false,
+          "design": {
+            "type": "text",
+            "content": "Email 4 Subject Line [FIRSTNAME], give pelvic floor exercise therapy a try \nPre-header text:  Access your free personalized program from the comfort of home.\n\nNon-opener resend subject line:\n[FIRSTNAME], you now have access to pelvic health benefits! \nNOR PH: Check out Hinge Health's new program today.",
+            "name": "Email 4 Subject Line [FIRSTNAME], give pelvic floor exercise therapy a try  Pre-header text:  Access your free personalized program from the comfort of home. Non-opener resend subject line: [FIRSTNAME], you now have access to pelvic health benefits!  NOR PH: Check out Hinge Health's new program today.",
+            "style": {
+              "fontFamily": "Roboto",
+              "fontPostScriptName": "RobotoRoman-Bold",
+              "fontStyle": "Bold",
+              "fontWeight": 700,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 30,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0,
+              "lineHeightPx": 39,
+              "lineHeightPercent": 110.93333435058594,
+              "lineHeightPercentFontSize": 130,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "isCritical": false
+          },
+          "html": {
+            "type": "text",
+            "content": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+            "text": "&bull;",
+            "confidence": 0.4,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "📱 Mobile/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        },
+        {
+          "type": "button",
+          "isCritical": true,
+          "design": {
+            "type": "button",
+            "content": "📱 Mobile/buttons",
+            "style": {
+              "backgroundColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "isCritical": true
+          },
+          "html": {
+            "type": "button",
+            "content": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+            "text": "JOIN HINGE HEALTH",
+            "confidence": 0.42000000000000004,
+            "metrics": {
+              "typeSimilarity": 1,
+              "textSimilarity": 0,
+              "styleSimilarity": 0,
+              "criticalBonus": 0.2
+            }
+          }
+        }
+      ]
+    },
+    "responsive_patterns": {
+      "transformations": [
+        {
+          "type": "layout",
+          "desktop": {
+            "type": "multi-column",
+            "description": "Content arranged in multiple columns"
+          },
+          "mobile": {
+            "type": "single-column",
+            "description": "Content stacked vertically"
+          },
+          "confidence": 1
+        },
+        {
+          "type": "button",
+          "desktop": {
+            "type": "fixed-width",
+            "description": "Buttons maintain consistent width"
+          },
+          "mobile": {
+            "type": "full-width",
+            "description": "Buttons expand to full container width"
+          },
+          "confidence": 1
+        },
+        {
+          "type": "image",
+          "desktop": {
+            "type": "fixed-width",
+            "description": "Images maintain aspect ratio with fixed width"
+          },
+          "mobile": {
+            "type": "fluid-width",
+            "description": "Images scale to container width"
+          },
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  "html_implementation": {
+    "snippets": [],
+    "base_structure": [
+      {
+        "type": "button",
+        "text": "JOIN HINGE HEALTH",
+        "html": "<a title=\"CTA\" href=\"https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health\" rel=\"noreferrer\"  style=\"text-decoration: none; color: #ffffff; line-height: 54px; display: block;\" target=\"_blank\">JOIN HINGE HEALTH</a>",
+        "isCritical": true,
+        "confidence": 1,
+        "styles": {
+          "textDecoration": "none",
+          "color": "#ffffff",
+          "lineHeight": "54px",
+          "display": "block"
+        },
+        "attributes": {
+          "title": "CTA",
+          "href": "https://www.hingehealth.com/for/{{landingPageSlug}}/pelvic-health",
+          "rel": "noreferrer",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "headline",
+        "text": "You can sign up for the Women’s Pelvic Health Program",
+        "html": "<h1 class=\"em_defaultlink em_font1 em_dm_txt_white\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 40px; line-height:48px; color: #007B34;font-weight: 700;\">You can sign up for the Women’s Pelvic Health Program</h1>",
+        "isCritical": true,
+        "confidence": 1,
+        "styles": {
+          "fontFamily": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "48px",
+          "color": "#007B34",
+          "fontWeight": "700"
+        },
+        "attributes": {
+          "class": "em_defaultlink em_font1 em_dm_txt_white"
+        }
+      },
+      {
+        "type": "text",
+        "text": "&bull;",
+        "html": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; width: 14px;\">&bull;</p>",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "fontFamily": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "color": "#373938",
+          "width": "14px"
+        },
+        "attributes": {
+          "class": "em_defaultlink em_dm_txt_white em_f18"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Reduce your pain or discomfort, and keep your pelvic muscles working like they should. Take advantage of your benefit today.",
+        "html": "<p class=\"em_defaultlink em_dm_txt_white em_f18\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #000000;\">Reduce your pain or discomfort, and keep your pelvic muscles working like they should. Take advantage of your benefit today.</p>",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "fontFamily": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "color": "#000000"
+        },
+        "attributes": {
+          "class": "em_defaultlink em_dm_txt_white em_f18"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Questions?&nbsp;We&rsquo;re&nbsp;here&nbsp;to&nbsp;help!",
+        "html": "<p class=\"em_defaultlink em_green em_center\" style=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 20px; line-height: 25px; color: #007B34; font-weight: bold; \">Questions?&nbsp;We&rsquo;re&nbsp;here&nbsp;to&nbsp;help!</p>",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "fontFamily": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "25px",
+          "color": "#007B34",
+          "fontWeight": "bold"
+        },
+        "attributes": {
+          "class": "em_defaultlink em_green em_center"
+        }
+      },
+      {
+        "type": "text",
+        "text": "To talk to a member of our support team, call us at 1&#8209;855&#8209;902&#8209;2777 or email help@hingehealth.com.",
+        "html": "<p class=\"em_defaultlink em_dm_txt_white em_center\" sstyle=\"font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; font-weight: 400;\">To talk to a member of our support team, call us at<span style=\"font-weight: 700;\"> <a rel=\"noreferrer\" title=\"Tel link\" href=\"tel:18559022777\" style=\"color: #373938; white-space: nowrap; text-decoration: none;\">1&#8209;855&#8209;902&#8209;2777</a></span> or email <span class=\"em_green\"><a rel=\"noreferrer\" title=\"mail link\" href=\"mailto:help@hingehealth.com\" style=\"color: #007b34; white-space: nowrap; text-decoration: underline; font-weight: 500;\">help@hingehealth.com</a></span>.</p>",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "fontFamily": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "color": "#373938",
+          "fontWeight": "400"
+        },
+        "attributes": {
+          "class": "em_green",
+          "sstyle": "font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 18px; line-height: 25px; color: #373938; font-weight: 400;",
+          "rel": "noreferrer",
+          "title": "mail link",
+          "href": "mailto:help@hingehealth.com"
+        }
+      },
+      {
+        "type": "image",
+        "text": "",
+        "html": "<img src=\"https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/c20b79dbb46e4a0d9e9bb08bbdca8e36/Desktop-header-animation_no-sticker%20%281%29.gif\" width=\"520\" alt=\"A female Hinge Health member is doing virtual exercise therapy at home to improve her pelvic health.\" border=\"0\" style=\"display: block; max-width:520px;font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #000000;\" />",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "display": "block",
+          "maxWidth": "520px",
+          "fontFamily": "Arial, ‘Helvetica Neue’, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20px",
+          "color": "#000000"
+        },
+        "attributes": {
+          "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/c20b79dbb46e4a0d9e9bb08bbdca8e36/Desktop-header-animation_no-sticker%20%281%29.gif",
+          "width": "520",
+          "alt": "A female Hinge Health member is doing virtual exercise therapy at home to improve her pelvic health.",
+          "border": "0"
+        }
+      },
+      {
+        "type": "image",
+        "text": "",
+        "html": "<img alt=\" An icon representing a member connecting with the support team.\" border=\"0\" src=\"https://d2axdqolvqmdvx.cloudfront.net/f05de41f-faeb-4c9b-a5a5-59dd6868b1aa/image_03.png\" style=\"display: block; max-width: 70px;\" width=\"70\">",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "display": "block",
+          "maxWidth": "70px"
+        },
+        "attributes": {
+          "alt": " An icon representing a member connecting with the support team.",
+          "border": "0",
+          "src": "https://d2axdqolvqmdvx.cloudfront.net/f05de41f-faeb-4c9b-a5a5-59dd6868b1aa/image_03.png",
+          "width": "70"
+        }
+      },
+      {
+        "type": "image",
+        "text": "",
+        "html": "<img src=\"https://d2axdqolvqmdvx.cloudfront.net/a39073af-ce18-44cb-a076-bf4c5f09a92f/spacer.gif\" width=\"1\" height=\"1\" alt=\"alt goes here\" style=\"display:block;\" border=\"0\" />",
+        "isCritical": false,
+        "confidence": 1,
+        "styles": {
+          "display": "block"
+        },
+        "attributes": {
+          "src": "https://d2axdqolvqmdvx.cloudfront.net/a39073af-ce18-44cb-a076-bf4c5f09a92f/spacer.gif",
+          "width": "1",
+          "height": "1",
+          "alt": "alt goes here",
+          "border": "0"
+        }
+      }
+    ]
+  }
+}
