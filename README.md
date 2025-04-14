@@ -121,6 +121,8 @@ src/
    git push
    ```
 
+> **Important**: You must complete all three steps (add, commit, push) for your changes to appear on GitHub. If you skip any step, your changes won't be tracked in the repository history.
+
 ### Example
 Let's say you modified the component extraction logic:
 ```bash
