@@ -123,6 +123,20 @@ src/
 
 > **Important**: You must complete all three steps (add, commit, push) for your changes to appear on GitHub. If you skip any step, your changes won't be tracked in the repository history.
 
+### When to Push Changes
+As a general rule, push your changes when:
+- You've completed a logical piece of work
+- You're about to make big changes
+- You're ending your work session
+- You've fixed a bug
+
+Avoid pushing:
+- Code that doesn't work at all
+- Sensitive information (passwords, API keys)
+- Very large files
+
+When in doubt, it's better to push than not to push - you can always undo changes if needed.
+
 ### Example
 Let's say you modified the component extraction logic:
 ```bash
