@@ -1,9 +1,22 @@
-# Figma to Email Training Data Generator
+# Figma to Email Converter
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project generates training data for AI models by analyzing Figma designs and matching them with HTML email templates.
+This project aims to create an AI-powered system that automatically converts Figma designs into production-ready HTML emails. It uses machine learning to understand design patterns and generate semantically correct HTML that matches the original design intent.
+
+## Project Goals
+1. **Design Analysis**: Extract components and patterns from Figma designs
+2. **HTML Generation**: Convert design components into semantic HTML
+3. **Training Data**: Generate high-quality training data for the AI model
+4. **Email Templates**: Produce production-ready email templates that work across clients
+
+## Current Phase
+We are currently in the training data generation phase, where we:
+- Analyze existing Figma designs and their corresponding HTML emails
+- Match components between designs and HTML
+- Generate training examples for the AI model
+- Document patterns and best practices
 
 ## Prerequisites
 
